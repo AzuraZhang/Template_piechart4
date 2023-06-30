@@ -17,6 +17,6 @@ public class DesignTimeNetLogic1 : BaseNetLogic
     [ExportMethod]
     public void Method1()
     {
-        // Insert code to be executed by the method
+        // Insert code to be executed by the method LOCAL CHANGE
     }
 }
