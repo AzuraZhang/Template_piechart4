@@ -12,7 +12,7 @@ using FTOptix.NetLogic;
 using FTOptix.OPCUAServer;
 #endregion
 
-public class TestNetLogic : BaseNetLogic
+public class TestNetLogicRename : BaseNetLogic
 {
     [ExportMethod]
     public void Method1()
