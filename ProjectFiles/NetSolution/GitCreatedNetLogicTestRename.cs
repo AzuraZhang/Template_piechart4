@@ -12,11 +12,11 @@ using FTOptix.NetLogic;
 using FTOptix.OPCUAServer;
 #endregion
 
-public class GitCreatedNetLogicTest : BaseNetLogic
+public class GitCreatedNetLogicTestRename : BaseNetLogic
 {
     [ExportMethod]
     public void Method1()
     {
-        // Insert code to be executed by the method Remote Create
+        // Insert code to be executed by the method Remote Rename
     }
 }
