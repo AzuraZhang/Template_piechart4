@@ -12,11 +12,11 @@ using FTOptix.NetLogic;
 using FTOptix.OPCUAServer;
 #endregion
 
-public class TestNetLogicRename : BaseNetLogic
+public class TestNetLogicRenameRemote : BaseNetLogic
 {
     [ExportMethod]
     public void Method1()
     {
-        // Insert code to be executed by the method Remote Rename
+        // Insert code to be executed by the method Remote RenameRemote
     }
 }
