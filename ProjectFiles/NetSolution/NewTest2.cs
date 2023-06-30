@@ -12,11 +12,11 @@ using FTOptix.NetLogic;
 using FTOptix.OPCUAServer;
 #endregion
 
-public class NewDesignTimeNetLogic1 : BaseNetLogic
+public class NewTest2 : BaseNetLogic
 {
     [ExportMethod]
     public void Method1()
     {
-        // Insert code to be executed by the method Remote Change
+        // Insert code to be executed by the method Remote Change to NewTest2
     }
 }
