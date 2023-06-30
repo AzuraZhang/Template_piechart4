@@ -17,6 +17,6 @@ public class TestNetLogicRename : BaseNetLogic
     [ExportMethod]
     public void Method1()
     {
-        // Insert code to be executed by the method Remote RenameLocal
+        // Insert code to be executed by the method Remote RenameLocal 7
     }
 }
